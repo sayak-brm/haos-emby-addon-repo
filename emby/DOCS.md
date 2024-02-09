@@ -50,7 +50,7 @@ This add-on follows the versioning of the upstream project; this is so that you 
 
 ## Bug Reporting
 
-Bug reports can be filed either with the [add-on repository](https://github.com/sayak-brm/haos-emby-addon-repo), or with the [upstream repository](https://github.com/haberda/emby-addon). 
+Bug reports can be filed either with the [add-on repository](https://github.com/sayak-brm/haos-emby-addon-repo) or with the [upstream repository](https://github.com/haberda/emby-addon). 
 Please attempt to determine if your bug is related to add-on specific issues, or application issues before filing your report. Add-on specific issues should be submitted to the add-on repository, application specific issues should be filed with the upstream repository.
 
 
