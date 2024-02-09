@@ -1,5 +1,5 @@
 name: emby
-url: https://github.com/haberda/emby-addon
+url: https://github.com/sayak-brm/haos-emby-addon-repo
 version: dev
 slug: emby
 privileged: 
@@ -9,7 +9,7 @@ arch:
   - aarch64
   - amd64
   - armv7
-description: emby media server
+description: An Emby media server add-on for Home Assistant
 startup: system
 boot: manual
 map: 
@@ -46,4 +46,4 @@ backup_exclude:
   - "*/transcoding-temp/"
   - "*/metadata/"
 init: false
-image: ghcr.io/haberda/emby/{arch}
+image: ghcr.io/sayak-brm/haos-emby-addon-repo/{arch}
