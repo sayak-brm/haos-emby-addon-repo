@@ -1,4 +1,4 @@
-[![](https://github.com/haberda/hassio_addons/blob/master/emby/logo.png)](http://emby.media/)
+[![](https://raw.githubusercontent.com/sayak-brm/haos-emby-addon-repo/main/logo.png)](http://emby.media/)
 
 # Emby
 
